@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\voda2\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\voda2\\.nuget\\packages"
+    ]
+  }
+}
